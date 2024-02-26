@@ -1,0 +1,86 @@
+name: flutterquiz
+description: A new Flutter application.
+publish_to: "none"
+version: 1.0.18+31
+
+# Release Version: 2.1.5 (do not remove or edit this)
+environment:
+    sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  cached_network_image: ^3.3.1
+  cloud_firestore: ^4.14.0
+  connectivity_plus: ^5.0.2
+  country_code_picker: ^3.0.0
+  cupertino_icons: ^1.0.6
+  dotted_border: ^2.1.0
+  encrypt: ^5.0.3
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.24.2
+  firebase_messaging: ^14.7.10
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_local_notifications: ^16.3.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  flutter_tex: ^4.0.6
+  flutter_widget_from_html: ^0.14.11
+  flutter_windowmanager: ^0.2.0
+  google_fonts: ^6.1.0
+  google_mobile_ads: ^4.0.0
+  google_sign_in: ^6.2.1
+  hive_flutter: ^1.1.0
+  http: ^1.1.2
+  image_cropper: ^5.0.1
+  image_picker: ^1.0.7
+  in_app_purchase: ^3.1.13
+  internet_connection_checker: ^1.0.0+1
+  intl: ^0.18.1
+  ios_insecure_screen_detector: ^0.0.2
+  just_audio: ^0.9.36
+  lottie: ^2.7.0
+  package_info_plus: ^5.0.1
+  path_provider: ^2.1.2
+  permission_handler: ^11.1.0
+  pin_code_fields: ^8.0.1
+  scratcher: ^2.5.0
+  screenshot: ^2.1.0
+  share_plus: any
+  shared_preferences: ^2.2.2
+  sign_in_with_apple: ^5.0.0
+  unity_ads_plugin: ^0.3.10
+  url_launcher: ^6.2.3
+  wakelock_plus: ^1.1.4
+
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+  dart_code_metrics_presets: ^2.8.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  very_good_analysis: ^5.1.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ic_launcher.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/profile/
+
+    - assets/images/emojis/
+    - assets/images/coins/
+
+    - assets/languages/
+    - assets/animations/
+
+    - assets/sounds/
+    - assets/files/

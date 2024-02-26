@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498435469699",
+    "project_id": "iqwallah-9fe81",
+    "storage_bucket": "iqwallah-9fe81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498435469699:android:a5e86bab9af73b3a6186b6",
+        "android_client_info": {
+          "package_name": "com.iqwallah.flutterquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498435469699-cqpcsdss7mcfin3qc5m5jptg8fetleso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNTPpUpbb2HvO7-fhvOLOjjFClAOb0TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498435469699-cqpcsdss7mcfin3qc5m5jptg8fetleso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
